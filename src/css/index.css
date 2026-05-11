@@ -1,0 +1,10 @@
+body {
+  background-color: #333;
+  color: #ccc;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header,
+.footer {
+  color: darkorange;
+}
