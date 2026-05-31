@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-random-cards-template/static/css/main.478f6931.css",
+    "main.js": "/react-random-cards-template/static/js/main.21d6a064.js",
+    "index.html": "/react-random-cards-template/index.html",
+    "main.478f6931.css.map": "/react-random-cards-template/static/css/main.478f6931.css.map",
+    "main.21d6a064.js.map": "/react-random-cards-template/static/js/main.21d6a064.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.478f6931.css",
+    "static/js/main.21d6a064.js"
+  ]
+}
