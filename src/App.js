@@ -7,7 +7,7 @@ import PracticeHooks from "./Layout/Practice_Hooks/PracticeHooks";
 
 function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/react-random-cards-template">
             <Routes>
                 <Route path="/" element={<HomePage />} />
                 <Route path="/PracticeBasics" element={<PracticeBasics />} />
